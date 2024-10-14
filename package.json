@@ -13,7 +13,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "zustand": "^4.1.5"
+    "zustand": "^5.0.0"
   },
   "devDependencies": {
     "@casper124578/eslint-config": "^7.0.0",
